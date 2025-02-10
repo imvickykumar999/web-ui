@@ -1,3 +1,8 @@
+# 🌐 Browser Use WebUI
+![image](https://github.com/user-attachments/assets/de14f6db-78d6-45f2-86c7-da0c71c11fe1)
+![image](https://github.com/user-attachments/assets/176d84e4-d5cd-4eec-82d2-2b09e84430bd)
+![image](https://github.com/user-attachments/assets/dac4a002-da7c-4716-a36f-3b703cc83b1d)
+
 <img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
 
 <br/>
